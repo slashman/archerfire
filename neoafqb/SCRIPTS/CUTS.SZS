@@ -1,0 +1,194 @@
+&
+1
+150,0,Juran
+I'm running out of missiles...
+I guess I'd better try to dodge them.
+
+1
+250,0,Juran
+Strange! There are lots of them
+and I'm very close to the SpaceStation!
+Where are they coming from!
+3
+150,0,Juran
+I'm almost there.... 
+Juran to base....
+Juran to base...
+150,99,Terran Base
+Terran Base here, Oh Prince! thanks god
+you are alive! Help is on the way, 
+please try to land safely!
+150,0,Juran
+Ok guys, thanks.
+
+
+4
+150,0,Juran
+Heck, there are too many ships... 
+I won't be able to hold them.
+
+150,0,Juran
+Great! The Royal Army has finally arrived!
+
+
+150,5,Royal Commander
+Prince Juran!, please let us take care of
+these scoundrels, Our King needs to talk
+with you now!
+100,0,Juran
+Thanks guys, I'm in debt with you!
+
+
+4
+150,0,Juran
+I'm finally here.... Juran to Base,
+Open Docking Bay!
+
+150,99,Terran Base
+Base here, Land on Bay 53 Prince!
+
+
+100,0,Juran
+All right.
+
+
+50,99, 
+ 
+
+
+&
+1
+150,0,Juran
+Hehehe! They are coming! 
+Here I go!
+
+1
+250,0,Juran
+This is crazy! they just keep coming...
+How comes we didn't notice such a big
+deployment sooner!
+5
+150,0,Juran
+Dammit there are still lots of them...
+This is a nonsense but I guess I'd better
+go talk my father.
+100,1,AnDru
+Look out Prince! Behind you!
+ 
+ 
+50,0,Juran
+What!
+
+
+100,1,AnDru
+Whoa! That WAS near!
+
+
+150,0,Juran
+That was awesome pilot, I sincerely thank you.
+
+
+4
+150,1,AnDru
+It's just my job Prince....
+But I'm pleased to do it!
+
+150,0,Juran
+Please come visit me at the SpaceStation... 
+I think we should retreat this battle...
+
+150,1,AnDru
+What! Retreat to these dirty Aliens!
+
+
+150,0,Juran
+Yes, I can't expose the life of my pilots in
+such a hopeless fight. This is a endless
+swarm of Aliens coming out of nowhere!
+4
+150,0,Juran
+This is Prince Juran,
+Everybody, Retreat into the SpaceStation!!!
+Now!
+150,4,Commander Prox
+Rogue Sir!
+
+
+50,99, 
+ 
+
+
+50,99, 
+ 
+
+
+&
+2
+150,0,Juran
+My hopes are in you Cadet, Good Luck!
+
+
+250,1,AnDru
+Thanks Prince, I'll try not to deceive 
+the trust everybody has put on me.
+
+4
+150,1,AnDru
+Here they come, I'll use the stealth
+device now...
+ 
+100,1,Alien Invader
+I'm sure there was somebody here!!!
+ 
+ 
+50,0,Alien Commander
+Shut up scumbag!
+
+
+100,1,AnDru
+Hehehe! I have to keep the Stealth power
+using the Enter Key!
+
+6
+150,1,AnDru
+What the heck is this!!! looks like a
+black hole... but Aliens are flying 
+through it!!!
+150,1,AnDru
+I guess that's how they're coming so fast!
+
+
+150,1,AnDru
+This is dangerous... I'll leave now.
+
+
+150,99,Device
+Internal Failure..... Unrecoverable error
+Shuting Down ......
+
+150,1,AnDru
+What! you can't shut down now, not HERE!!!
+
+
+150,99,Alien Invader
+A Terran!! Intruder Alert!! ATTACK!
+
+
+4
+150,1,AnDru
+This is the end...
+
+
+50,4,???
+Watch out!!! 
+	
+
+50,1,AnDru
+What? Thanks but, who are you? 
+Wait! a black hole is right in front 
+of us!!! 
+50,99, 
+ 
+
+
+

@@ -1,0 +1,363 @@
+&Scene 1
+%
+4
+2
+9,2,-1
+... Lo recuerdo.... tribus, imperios, paises,
+cada uno a su momento, peleo por poder en 
+sus propios planetas.
+
+... Largos Siglos han pasado desde eso...
+Me contento al pensar que la vida ya no pelea
+por el poder y que han decido vivir en paz
+uno junto al otro...
+
+2,2,-1
+Ahora puedo dormir en paz...
+
+4
+4,1,3
+Prox
+Despierten Cadetes! Es hora de entrenar!
+
+
+5,1,1
+AnDru
+Whoa! Ese sueno otra vez... He estado sonando
+eso por mucho tiempo.... me pregunto que 
+significa...
+
+4,1,3
+Prox
+Que le pasa Cadete, levantese ahora!
+
+
+4,1,1
+AnDru
+Si senor!
+
+
+4
+4,2,-1
+Mientras tanto, en Proxima Centauri.... 
+El Principe Juran de Terra esta investigando acerca
+de nuevas fuentes de poder.
+
+4,1,-1
+Dispositivo Com
+-MENSAJE PARA EL PRINCIPE JURAN -
+
+
+4,1,0
+Juran
+Que pasa? veamos...
+
+
+6,1,-1
+Dispositivo Com
+Querido Hijo, por favor ven en cuanto puedas
+a la Estacion, hemos encontrado un artefacto
+muy extrano, y se que eres el unico que nos
+puede decir mas de el.
+
+2
+4,1,0
+Juran
+Mmmm.... un artefacto.... Supongo, que sera 
+mejor que me vaya ahora...
+
+3,2,-1
+Y asi, el Principe Juran tomo una nave y se dirigio
+a la Estacion Humana ....
+
+&
+4
+3
+3,2,-1
+Al llegar a la Estacion, Juran corre en busca de su
+padre.
+
+3,2,-1
+Pero cuando iba a entrar al cuarto del trono, algo 
+parece impactar la Estacion....
+
+4,2,-1
+Las senales de emergencia son activadas, y de repente
+toda la guardia real esta lista en la plataforma de 
+lanzamiento.
+
+4
+4,1,0
+Juran
+Que pasa aqui! Estamos bajo ataque?
+
+
+4,1,5
+Comandante Real
+Principe! Los Aliens nos atacan!
+Hay demasiados de ellos!
+
+4,1,0
+Juran
+Donde esta mi padre?
+
+
+4,1,5
+Comandante Real
+No lo se... todo aqui es caos!
+
+
+3
+4,1,0
+Juran
+Ni modo, Voy a pelear!
+
+
+4,1,5
+Comandante Real
+Que! Por favor no lo haga principe!
+
+
+4,1,0
+Juran
+Ten Cuidado!
+
+
+1
+3,2,-1
+Despues de decir eso, Juran aborda una nave y
+vuela al campo de batalla.
+
+
+&
+6
+5
+4,2,-1
+El ejercito Terran vuelve a la estacion...
+todo parece estar terminado, y se ven caras tristes
+por todos lados...
+
+3,2,-1
+El Principe Juran se dirige al cuarto del trono... 
+el concilio ya lo esperaba.
+
+4,1,5
+Comandante Real DJNem
+Principe! estabamos preocupados por usted! Esta no es
+una batalla que podamos ganar!
+
+4,1,0
+Principe Juran
+Lo se...  Lo he visto con mis propios ojos...
+Pero, donde esta mi padre?
+
+4,1,5
+Comandante Real DJNem
+El fue con su guardia a pelear la invasion... 
+pero ha desaparecido desde eso...
+
+4
+4,1,0
+Juran
+Que! en ese caso estamos perdidos....
+
+
+3,2,-1
+De repente, la pantalla del concilio se ilumina, y un
+mensaje Alienigena es recibido.
+
+5,1,-1
+Comandante Alien
+Terrans estupidos.... ustedes son tan indefensos... 
+nos iremos por ahora, pero sepan que volveremos!
+y muy pronto!
+
+5,1,5
+Comandante Real DJNem
+Principe! usted debe asumir el trono mientras su padre
+esta ausente! Debemos de mantenernos firmes y pensar
+en algo!
+
+4
+6,1,0
+Juran
+Si... No podemos escondernos y esperar a que ellos 
+ataquen de nuevo. Hoy, un cadete salvo mi vida, ella
+parece ser muy habil... Debemos mandarla a explorar
+el area de invasion Alien!
+
+4,1,5
+Comandante Real DJNem
+Cual es su nombre Principe?
+
+
+4,1,0
+Juran
+No lo se, pero ire a buscarla a las barracas en
+este momento...
+
+4,2,-1
+Juran se dirige a las barracas, y alli ve a la cadete.
+Ella esta entrenando con una espada laser contra un
+grupo de cadetes.... 
+
+5
+4,1,0
+Juran
+Wow! Ella si que es habil!
+
+
+3,2,-1
+Juran esta tan concentrado en la chica que no se da 
+cuenta de que un Cadete le esta hablando...
+
+4,1,-1
+Cadet
+Principe? necesita algo?
+Principe?
+
+4,1,0
+Juran
+Oh, disculpe, puede decirme el nombre de ella?
+
+
+5,1,-1
+Cadet
+Ella? whew, ella es AnDru, Yo diria que es la mejor 
+piloto aqui, una mujer peligrosa sin dud....
+Oh lo siento alteza... me ire ahora...
+
+5
+4,1,0
+Juran
+Cadete Andru?
+
+
+4,1,1
+Andru
+Principe Juran, alteza, que necesita de esta humilde
+sirviente?
+
+5,1,0
+Juran
+Arriba Cadete, Quiero agradecerle por salvar mi vida, 
+tambien necesito que venga conmigo al cuarto del 
+trono.
+
+4,1,1
+Andru
+A sus ordenes Senor.
+
+
+4,2,-1
+Juran and AnDru fueron al cuarto del trono, en el camino
+sys ojos se cruzaron por un corto momento....
+Juran se puso rojo... 
+
+4
+4,1,0
+Juran
+Esta es la piloto habil de la cual les hablaba,
+Cadete Andru de la XXI Division Espacial Terran 
+
+7,1,5
+Comandante Real DJNem
+Bienvenida Cadete, ahora le asignaremos una 
+mision secreta, necesitamos que se infiltre en
+area enemiga, e intente obtener lo mas que pueda
+de informacion, por supuesto, equiparemos su nave
+con un dispositivo Stealth, para que este segrua.
+
+4,1,1
+AnDru
+Me ire cuando me ordene Señor!
+
+
+3,2,-1
+la Cadete Andru abordo la Nave encubierta, y se fue a
+la mision....
+
+
+&
+3
+4
+5,2,-1
+A Black Hole was the last signal that was was
+receipt at Humana SpaceStation, the cover ship
+disappeared along a strange ship nobody knew
+about.
+
+4,2,-1
+Everybody could see Prince Juran was worried,
+but they didn't know he wasn't caring about the
+misison, but about the girl. 
+
+4,1,5
+Royal Comander DJNem
+Now, what are we suppposed to do? they won't
+stop coming!, this is the end...
+
+6,1,0
+Prince Juran
+What is worse, a jamming barrier has been put 
+around the SpaceStation.... we can't broadcast 
+any alert or anything.... neither receive
+messages.... 
+
+4
+6,2,-1
+Meanwhile, some lightyears away, the Kylhar
+SpaceStation is being hit by another Alien 
+army, this time they couldn't even withstand a 
+battle, and the SpaceStation was blast into
+several thousand pieces.
+
+5,2,-1
+Instantly, a raid begun over Kylhatya, the most 
+populated Terran planet on the sector, cities
+were destroyed, and the small Kylathian army
+couldn't do anything...
+
+4,2,-1
+SpacePorts were filled with people trying to 
+board a ship to escape the planet, chaos 
+reigned in the planet.
+
+5,2,-1
+The Kylathian power plant was one of the first
+targets of the invasion, as it supported the 
+whole planet and it was a key target in the
+raid.
+
+5
+5,1,6
+???
+Damn! these suckers are attacking without 
+warning, our is not a warring planet, we can't 
+do anything but try to escape.
+
+4,1,2
+???
+You're right friend, but I swear I will avenge
+the death of my friends and family...
+
+3,2,-1
+Vyro Fethernand, Vyro Fethernand, report to main
+console room, Vyro Fethernand....
+
+6,1,2
+Vyro
+No way Denis, we gotta escape this plant before
+it's too late, I know they want me to give'm the
+activation codes, but I'm sure they will give 
+away the codes to the Aliens in hope for a treaty.
+
+3,1,2
+Denis
+What! the codes are too dangerous to be given...
+
+4,1,2
+Vyro
+Yes, Let's scramp away, I have a ship hidden in
+a material depot nearby, let's go, now!
+

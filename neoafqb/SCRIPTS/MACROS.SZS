@@ -1,0 +1,175 @@
+&
+^^
+ %0
+ %0
+ %0
+ %0
+ %0
+ %0
+^^
+ %0
+ %0
+ %0
+ %0
+ %0
+ %0
+^^
+ %3
+  chenf 0
+  chcue 3
+  spawn 3
+ %0
+ %0
+ %0
+ %0
+ %0
+^^
+ %4
+  chcue 6
+  spawn 4
+  spawn 5
+  spawn 6
+ %1
+  ifsps 0 1
+ %0
+ %0
+ %0
+ %0
+^^
+ %0
+ %0
+ %0
+ %1
+  setma 2
+ %0
+ %0
+&
+^1
+ %1
+  chcue 5
+ %0
+ %0
+ %0
+ %0
+ %0
+^2
+ %2
+  chlys 1
+  setcd 2 0 
+ %0
+ %0
+ %0
+ %0
+ %0
+^3
+ %3
+  chcue 3
+  setcd 2 1
+  setca 2 0
+ %0
+ %0
+ %0
+ %0
+ %0
+^4
+ %0
+ %0
+ %0
+ %0
+ %0
+ %0
+^5
+ %0
+ %0
+ %1
+  setma 2
+ %0
+ %0
+ %0
+&Tercer
+^1JuranTalkin
+ %0
+ %1
+  chspd 6
+ %0
+ %0
+ %0
+ %0
+^2UseStealth
+ %2
+  chcue 5
+  inspa
+ %1
+  setsp 3
+ %1
+  chcue 9
+ %0
+ %0
+ %0
+^3FindOut,Discover Stealth
+ %0
+ %0
+ %0
+ %1
+  setsp 6
+ %0
+ %0
+^4Warp
+ %0
+ %0
+ %1
+  setma 2
+ %0
+ %0
+ %0
+^5
+ %0
+ %0
+ %0
+ %0
+ %0
+ %0
+&Cuarto
+^1JuranTalkin
+ %0
+ %1
+  chspd 6
+ %0
+ %0
+ %0
+ %0
+^2UseStealth
+ %2
+  chcue 5
+  inspa
+ %1
+  setsp 3
+ %1
+  chcue 9
+ %0
+ %0
+ %0
+^3FindOut,Discover Stealth
+ %0
+ %0
+ %0
+ %1
+  setsp 6
+ %0
+ %0
+^4Warp
+ %0
+ %0
+ %0
+ %1
+  setma 2
+ %0
+ %0
+^5
+ %0
+ %0
+ %0
+ %0
+ %0
+ %0
+e

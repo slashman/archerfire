@@ -1,0 +1,50 @@
+                               --------------
+                               Neo ArcherFire
+                           -----------------------
+                           SZDev - Santiago Zapata
+                           http://szdev.tripod.com
+                            ragnar300@hotmail.com
+                           -----------------------
+
+Version History
+---------------
+ > 1.4 Febrary 7 / 2003 
+   First public release version.
+
+
+What's Neo ArcherFire?
+----------------------
+ > Neo ArcherFire is an improved version of my old game ArcherFire, this
+   shooter was made in Qbasic, using the DirectQB library.
+
+I have problems running Neo ArcherFire
+--------------------------------------
+ > This is more common than I would want.
+
+Do you know any solutions for this?
+-----------------------------------
+ > Indeed, I know some solutions.
+
+Ok, can you please tell me how to put it working???
+---------------------------------------------------
+ > All right, all you need to do is turn EMS on. As simple as that.
+ 
+ > And in case you don't know how to get your EMS working
+   
+   > Solution 1
+       > Right Click on archie.exe
+       > Click on properties
+       > Click on Memory tab
+       > Set EMS to automatic
+
+   > Solution 2
+     > Edit c:\config.sys
+       >  Add this
+          DEVICE=C:\DOS\HIMEM.SYS
+          DEVICE=C:\DOS\EMM386.SYS RAM
+     
+     > Edit c:\autoexec.bat
+       >  Add this
+          C:\WINDOWS\EMM386 ON
+
+     > Reboot

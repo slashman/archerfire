@@ -1,0 +1,194 @@
+&
+1
+150,0,Juran
+Se me acaban los misiles...
+Sera mejor tratar de esquivarlos.
+
+1
+250,0,Juran
+Que extrano! Hay muchos de ellos y ya 
+estoy cerca de la Estacion! 
+De donde estan llegando!
+3
+150,0,Juran
+Estoy muy cerca.... 
+Juran a la base....
+Juran a la base...
+150,99,Base Terran
+Base Terran aqui, Principe! gracias al
+cielo que esta vivo! Los refuerzos estan
+en camino, trate de llegar a salvo!
+150,0,Juran
+Muy bien muchachos, gracias.
+
+
+4
+150,0,Juran
+Rayos, hay demasiadas naves...
+No podre contenerlas.
+
+150,0,Juran
+Grandioso! la Guardia Real ha llegado!
+
+
+150,5,Comandante Real
+Principe Juran!, deje que nos encarguemos de
+esta basura, Nuestro Rey necesita hablar con
+usted ahora!
+100,0,Juran
+Gracias muchachos, les debo una!
+
+
+4
+150,0,Juran
+He llegao.... Juran a la Base,
+Abran el puerto de aterrizaje!
+
+150,99,Terran Base
+Aqui Base Atterize en la Bahia 53 Principe!
+
+
+100,0,Juran
+Esta bien.
+
+
+50,99, 
+ 
+
+
+&
+1
+150,0,Juran
+Vaya que son muchos,
+Aqui voy!
+
+1
+250,0,Juran
+No tiene sentido! simplemente siguen llegando.
+Como es que no nos enteramos de un movimiento 
+tan grande antes!
+5
+150,0,Juran
+Maldicion, todavia hay muchos de ellos...
+Lo siento mucho, pero creo que sera mejor volver
+con mi padre.
+100,1,AnDru
+Cuidado Principe! Detras de usted!
+ 
+ 
+50,0,Juran
+Que!
+
+
+100,1,AnDru
+Whoa! Eso estuvo CERCA!
+
+
+150,0,Juran
+Eso fue impresionante piloto, le agradezco de corazon.
+
+
+4
+150,1,AnDru
+Es solo mi trabajo principe....
+Pero me encanta hacerlo!
+
+150,0,Juran
+Por favor visiteme en la Estacion....
+Creo que debemos retirarnos de esta batalla...
+
+150,1,AnDru
+Que! Huir de estos apestosos Aliens!
+
+
+150,0,Juran
+Si, No puedo exponer la vida de mis pilotos en una 
+batalla tan oscura. Esto es una bendada sin fin de 
+Aliens saliendo de la nada!
+4
+150,0,Juran
+Este es el Principe Juran,
+Todos, vuelvan a la Estacion!!!
+Ahora!
+150,4,Commander Prox
+Si Senor!
+
+
+50,99, 
+ 
+
+
+50,99, 
+ 
+
+
+&
+2
+150,0,Juran
+Confio en usted Cadete, buena suerte!
+
+
+250,1,AnDru
+Gracias Principe, tratare de no decepcionar
+a todos los que confiaron en mi.
+
+4
+150,1,AnDru
+Aqui vienen, usare el dispositivo Stealth
+ahora...
+ 
+100,1,Invasor Alien
+Estoy seguro de que habia alguien aqui!!!
+ 
+ 
+50,0,Comandante Alien
+Callate Idiota!
+
+
+100,1,AnDru
+Hehehe! Tengo que mantener el poder Stealth
+usando la tecla Enter !
+
+6
+150,1,AnDru
+Que rayos es esto!!! se ve como un agujero
+negro... pero los Aliens vuelan a traves de 
+el!!!
+150,1,AnDru
+Supongo que asi es como estan llegando tan
+rapido!
+
+150,1,AnDru
+Esto es peligroso... me ire de inmediato.
+
+
+150,99,Dispositivo Stealth
+Falla Interna.... Error Critico...
+Apagando......
+
+150,1,AnDru
+Que! no te puedes apagar, no AQUI!!!
+
+
+150,99,Invasor Alien
+Un Terran!! Alerta de Intruso!!!
+ATAQUEN!!!
+
+4
+150,1,AnDru
+Es el fin...
+
+
+50,4,???
+Cuidado!!! 
+	
+
+50,1,AnDru
+Que? gracias pero, quien eres tu?
+Espera! un agujero negro esta justo al
+frente de nosotros!!!
+50,99, 
+ 
+
+
+
